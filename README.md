@@ -36,7 +36,7 @@ Agora, se uma tentativa falhasse, seria necessário voltar atrás e tentar uma n
 
 ## 4. Desafio para a Próxima Aula 🔍
 
-Agora que refleti sobre o filme e como ele se conecta com estruturas de dados, o desafio para a próxima aula será explorar como filas, pilhas e listas poderiam ser aplicadas no processo de decodificação de forma prática, como Turing fez, mas de maneira mais estruturada.
+O desafio dá aula será explorar como filas, pilhas e listas poderiam ser aplicadas no processo de decodificação de forma prática, como Turing fez, mas de maneira mais estruturada.
 
 ### Fila (FIFO) 🚶‍♂️
 Se as combinações de letras fossem armazenadas em uma fila, o processo de decodificação seria mais organizado. A fila garantiria que as combinações fossem testadas de acordo com o princípio FIFO: o primeiro a entrar seria o primeiro a ser testado. Testar de forma aleatória poderia resultar em combinações perdidas ou tentativas repetidas, o que a fila evita.
