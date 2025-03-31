@@ -2,7 +2,7 @@
 
 # O Jogo da Imitação – Análise e Relação com as Estruturas de Dados 🎬💡
 
-O objetivo desta atividade é demonstrar como as estruturas de dados podem ser aplicadas e ajudar na decodificação através do filme *O Jogo da Imitação*. Após assistir ao longa, percebi como a programação e a computação estão presentes em nosso dia a dia. Mesmo sem saber, usamos seus conceitos para realizar tarefas emocionantes e interessantes, como a quebra de códigos.
+O objetivo desta atividade é demonstrar como as estruturas de dados podem ser aplicadas e ajudar na decodificação através do filme *O Jogo da Imitação*. Após assistir ao longa, percebi como a programação e a computação estão presentes em nosso dia a dia.
 
 ## 1. Contextualização 📽️
 
