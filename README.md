@@ -12,7 +12,7 @@ Foi aí que entrou a máquina Bombe, que acelerava significativamente o processo
 
 Embora o filme não tenha falado explicitamente sobre estruturas de dados, percebi que as soluções usadas por Turing e sua equipe têm muito a ver com o que hoje chamamos de estruturas de dados. A organização e eliminação de combinações pelas quais a Bombe passava são práticas que usamos atualmente em computação.
 
----
+----
 
 ## 2. Trecho Selecionado do Filme 🎬
 
