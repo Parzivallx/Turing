@@ -18,7 +18,7 @@ Embora o filme não tenha falado explicitamente sobre estruturas de dados, perce
 
 Enquanto assistiaa ao filme, observei como a máquina Bombe, desenvolvida pela equipe de Turing, testava uma quantidade imensa de combinações de letras e códigos. Alan e sua equipe programaram algoritmos para eliminar rapidamente as possibilidades improváveis, baseadas em pistas e dicas lógicas. O processo me fez pensar que o fluxo de tentativas da máquina poderia ser comparado com uma fila (FIFO).
 
-A fila funciona de forma a garantir que cada tentativa seja testada na ordem certa, sem perder nenhuma tentativa importante. A Bombe não testava as combinações de forma aleatória; ela seguia um fluxo organizado, como uma fila. Isso é altamente benéfico, pois garante que nenhuma combinação seja perdida.
+A fila funciona de forma a garantir que cada tentativa seja testada na ordem certa, sem perder nenhuma tentativa importante. A Bombe não testava as combinações de forma aleatória; ela seguia um fluxo organizado, como uma fila. Isso é altamente importante, pois garante que nenhuma combinação seja perdida.
 
 ---
 
