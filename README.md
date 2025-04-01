@@ -6,7 +6,7 @@ O objetivo desta atividade é demonstrar como as estruturas de dados podem ser a
 
 ## 1. Contextualização 📽️
 
-Assistindo ao filme, fiquei muito interessado na jornada de Alan Turing e sua equipe, tentando quebrar o código Enigma usado pelos nazistas na Segunda Guerra Mundial. Alan enfrentava o problema de testar milhões de combinações até encontrar a chave certa. A parte criptográfica do desafio era gigantesca, e o tempo era escasso. Alan sabia que não conseguiriam resolver o problema manualmente.
+Assistindo ao filme, achei interessante a jornada de Alan Turing e sua equipe, tentando quebrar o código Enigma usado pelos nazistas na Segunda Guerra Mundial. Alan enfrentava o problema de testar milhões de combinações até encontrar a chave certa. A parte criptográfica do desafio era gigantesca, e o tempo era escasso. Alan sabia que não conseguiriam resolver o problema manualmente.
 
 Foi aí que entrou a máquina Bombe, que acelerava significativamente o processo de tentativa e erro. Mesmo com a máquina, Alan ainda precisava ser estratégico e descartar muitas combinações. Ele não podia simplesmente testar todas as possibilidades aleatoriamente, mas sim organizar e filtrar de maneira eficiente.
 
